@@ -37,15 +37,21 @@ It provides an interactive dashboard for monitoring:
 
 ## 📸 Screenshots
 
+### Index Page
+![Index](parimal/index.png)
+
 ### 🔐 Login Page
-![Login](login.png)
+![Login](parimal/login.png)
 
 ### 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](parimal/dashboard.png)
 
 ### 📈 Charts
-![Charts](charts.png)
+![Charts](parimal/graph.png)
 
 ### 📄 Overview Page
-![Overview](overview.png)
+![Overview](parimal/server_data.png)
+
+### 📄 Overview Page
+![Sensor Data](parimal/sensor_data.png)
 

@@ -35,4 +35,17 @@ It provides an interactive dashboard for monitoring:
 - Real-time Data Simulation
 - Fully Responsive Layout
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 📈 Charts
+![Charts](charts.png)
+
+### 📄 Overview Page
+![Overview](overview.png)
 

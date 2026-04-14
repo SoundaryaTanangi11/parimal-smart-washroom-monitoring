@@ -38,20 +38,20 @@ It provides an interactive dashboard for monitoring:
 ## 📸 Screenshots
 
 ### Index Page
-![Index](parimal/index.png)
+![Index](screenshots/index.png)
 
 ### 🔐 Login Page
-![Login](parimal/login.png)
+![Login](screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](parimal/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### 📈 Charts
-![Charts](parimal/graph.png)
+![Charts](screenshots/graph.png)
 
 ### 📄 Overview Page
-![Overview](parimal/server_data.png)
+![Overview](screenshots/server_data.png)
 
 ### 📄 Overview Page
-![Sensor Data](parimal/sensor_data.png)
+![Sensor Data](screenshots/sensor_data.png)
 
